@@ -3,6 +3,7 @@ name: Refactor
 about: Propose a code refactor or technical improvement
 title: '[Refactor] '
 labels: refactor
+type: Task
 assignees: ''
 ---
 
