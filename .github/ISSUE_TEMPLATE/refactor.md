@@ -9,15 +9,15 @@ assignees: ''
 
 ## What to Refactor
 
-Identify the code, module, or area that needs refactoring.
+<!-- Identify the code, module, or area that needs refactoring. -->
 
 ## Why
 
-Explain the motivation — e.g. complexity, performance, maintainability, tech debt.
+<!-- Explain the motivation — e.g. complexity, performance, maintainability, tech debt. -->
 
 ## Proposed Approach
 
-Describe the refactoring strategy at a high level.
+<!-- Describe the refactoring strategy at a high level. -->
 
 ## Acceptance Criteria
 
@@ -27,4 +27,4 @@ Describe the refactoring strategy at a high level.
 
 ## Risks & Notes
 
-Any breaking changes, migration steps, or things to watch out for.
+<!-- Any breaking changes, migration steps, or things to watch out for. -->
